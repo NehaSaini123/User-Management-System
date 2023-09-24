@@ -1,0 +1,39 @@
+.menuta{
+	margin: auto;
+	font-size:25px;
+	margin-top:10px;
+	width: 60%;
+}
+.dv{
+	text-align: center;
+	margin-top:50px;
+}
+.formta{
+	margin: auto;
+	font-size:22px;
+	margin-top:20px;
+	border:3px solid silver;
+	background-color:cyan;
+}
+.pad{
+	padding:13px;
+}
+.tb{
+	font-size:20px;
+	width:300px;
+}
+.bt{
+	font-size:19px;
+	padding:2px 15px;
+}
+.resta{
+	margin: auto;
+	margin-top:20px;
+	width:50%;
+	border-collapse:collapse;
+	font-size:20px; 
+}
+.dvv{
+	text-align: center;
+	margin-top:15px;
+}
